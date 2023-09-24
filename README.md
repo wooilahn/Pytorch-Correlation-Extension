@@ -1,8 +1,8 @@
 
 [![PyPI](https://img.shields.io/pypi/v/spatial-correlation-sampler.svg)](https://pypi.org/project/spatial-correlation-sampler/)
 
-
-# Pytorch Correlation module
+ 
+# Pytorch Correlation module 
 
 this is a custom C++/Cuda implementation of Correlation module, used e.g. in [FlowNetC](https://arxiv.org/abs/1504.06852)
 
